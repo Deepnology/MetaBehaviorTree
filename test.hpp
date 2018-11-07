@@ -310,16 +310,16 @@ public:
 	struct config_table: boost::mpl::vector<
 	//                  composite_node        children_nodes
 	//                +----------------+-----------------------------------------+
-	boost::mpl::vector< Sel0,			Dec0,Dec1,Leaf0,Sel1,Seq2,Leaf14		>,
-	boost::mpl::vector< Seq0,			Dec2,Leaf1,Dec3,Sel2					>,
-	boost::mpl::vector< Sel2,			Leaf2,Leaf3								>,
-	boost::mpl::vector< Sel1,			Seq0,Seq1,Leaf7							>,
-	boost::mpl::vector< Seq1,			Dec4,Sel3,Dec5,Leaf6					>,
-	boost::mpl::vector< Sel3,			Leaf4,Leaf5								>,
-	boost::mpl::vector< Seq2,			Dec6,Seq3,Dec7,Sel4,Leaf13				>,
-	boost::mpl::vector< Seq3,			Leaf8,Leaf9								>,
-	boost::mpl::vector< Sel4,			Leaf10,Seq4								>,
-	boost::mpl::vector< Seq4,			Leaf11,Leaf12							>
+	boost::mpl::vector< Sel0,			Dec0,Dec1,Leaf0,Sel1,Seq2,Leaf14        >,
+	boost::mpl::vector< Seq0,			Dec2,Leaf1,Dec3,Sel2                    >,
+	boost::mpl::vector< Sel2,			Leaf2,Leaf3                             >,
+	boost::mpl::vector< Sel1,			Seq0,Seq1,Leaf7                         >,
+	boost::mpl::vector< Seq1,			Dec4,Sel3,Dec5,Leaf6                    >,
+	boost::mpl::vector< Sel3,			Leaf4,Leaf5                             >,
+	boost::mpl::vector< Seq2,			Dec6,Seq3,Dec7,Sel4,Leaf13              >,
+	boost::mpl::vector< Seq3,			Leaf8,Leaf9                             >,
+	boost::mpl::vector< Sel4,			Leaf10,Seq4                             >,
+	boost::mpl::vector< Seq4,			Leaf11,Leaf12                           >
 	> {};
 /*
    ___________________________________Sel0_________________________________
