@@ -1,8 +1,3 @@
-/*****************************************
-	The Meta Behavior Tree Library
-	Copyright (c) 2017 David Feng
-	Distributed under the MIT License.
-*****************************************/
 #ifndef META_TRAVERSAL_HPP
 #define META_TRAVERSAL_HPP
 #include "metafunctions.hpp"
