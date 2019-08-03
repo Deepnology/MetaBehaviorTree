@@ -1,8 +1,3 @@
-/*****************************************
-	The Meta Behavior Tree Library
-	Copyright (c) 2017 David Feng
-	Distributed under the MIT License.
-*****************************************/
 #ifndef BEHAVIOR_TREE_HPP
 #define BEHAVIOR_TREE_HPP
 #include "nodes.hpp"
