@@ -1,8 +1,3 @@
-/*****************************************
-	The Meta Behavior Tree Library
-	Copyright (c) 2017 David Feng
-	Distributed under the MIT License.
-*****************************************/
 #ifndef METAFUNCTIONS_HPP
 #define METAFUNCTIONS_HPP
 #include <boost/mpl/set.hpp>
