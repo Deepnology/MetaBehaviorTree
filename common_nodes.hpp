@@ -1,8 +1,3 @@
-/*****************************************
-	The Meta Behavior Tree Library
-	Copyright (c) 2017 David Feng
-	Distributed under the MIT License.
-*****************************************/
 #ifndef COMMON_NODES_HPP
 #define COMMON_NODES_HPP
 #include <boost/mpl/vector.hpp>
